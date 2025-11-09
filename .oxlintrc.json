@@ -8,9 +8,7 @@
     "import/extensions": [
       "error",
       "always",
-      {
-        "ignorePackages": true
-      }
+      { "ignorePackages": true }
     ]
   }
 }
